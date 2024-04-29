@@ -1,0 +1,46 @@
+.container{
+    padding: 20px;   
+}
+.upper{
+    height: 70px;
+    background-color: rgb(21, 21, 131);
+    margin: 0px 0px 20px 0px;
+}
+.name{
+    padding: 13px;
+}
+.span-name{
+    color: white;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.image1{
+    height: 200px;
+    margin: 5px 0px 15px 60px;
+}
+.list{
+    list-style: none;
+}
+.upper2{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+.box{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+span{
+    color: rgb(21, 21, 131);
+}
+.icon{
+    color: rgb(21, 21, 131);
+}
+hr{
+    color: rgb(21, 21, 131);
+    border:  solid rgb(21, 21, 131);
+}
